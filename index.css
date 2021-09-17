@@ -1,0 +1,23 @@
+h1{
+    color: red;
+}
+
+.text{
+    line-height: 2;
+    font-style: oblique;
+    color: red;
+    font-size: 24px;
+ 
+}
+
+.list{
+    color: rgb(131, 35, 35);
+    line-height: 3;
+}
+
+.line{
+    font-style: oblique;
+    font-size: 24px;
+    color: red;
+    font-weight: 800;
+}
